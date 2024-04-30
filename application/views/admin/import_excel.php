@@ -1,0 +1,174 @@
+<form name="upload" method="post" action="<?=base_url();?>Excel/uploadExcelFile" enctype="multipart/form-data"> 
+    
+<table border="1">
+    <tr>
+    <th>FILE</th>
+    <th>TITLE</th>
+    <th>SINGLE PRICE</th>
+    <th>MULTI PRICE</th>
+    <th>PAGES</th>
+    <th>DATE</th>
+    <th>SUMMARY</th>
+    <th>TOC</th>
+    <th>CATEGORY</th>
+    <th>ACTION</th>
+    </tr>
+    <tr>
+    <td><input type="file" name="file"></td>
+    <td>
+        <select name="reportTitle">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option>I</option>
+            <option>J</option>
+            <option>K</option>
+            <option>L</option>
+            <option>M</option>
+            <option>N</option>
+            <option>O</option>
+        </select>
+        </td>
+    <td>
+        <select name="single">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option>I</option>
+            <option>J</option>
+            <option>K</option>
+            <option>L</option>
+            <option>M</option>
+            <option>N</option>
+            <option>O</option>
+        </select>
+        </td>
+    <td>
+        <select name="multi">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option>I</option>
+            <option>J</option>
+            <option>K</option>
+            <option>L</option>
+            <option>M</option>
+            <option>N</option>
+            <option>O</option>
+        </select>
+        </td>
+    <td>
+        <select name="pages">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option>I</option>
+            <option>J</option>
+            <option>K</option>
+            <option>L</option>
+            <option>M</option>
+            <option>N</option>
+            <option>O</option>
+        </select>
+        </td>
+    <td>
+        <select name="pub_date">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option>I</option>
+            <option>J</option>
+            <option>K</option>
+            <option>L</option>
+            <option>M</option>
+            <option>N</option>
+            <option>O</option>
+        </select>
+        </td>
+    <td>
+        <select name="content">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option>I</option>
+            <option>J</option>
+            <option>K</option>
+            <option>L</option>
+            <option>M</option>
+            <option>N</option>
+            <option>O</option>
+        </select>
+        </td>
+    <td>
+        <select name="summary">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option>I</option>
+            <option>J</option>
+            <option>K</option>
+            <option>L</option>
+            <option>M</option>
+            <option>N</option>
+            <option>O</option>
+        </select>
+        </td>
+  <td>
+        <select name="category">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option>I</option>
+            <option>J</option>
+            <option>K</option>
+            <option>L</option>
+            <option>M</option>
+            <option>N</option>
+            <option>O</option>
+        </select>
+        </td>
+        <td><input type="submit">    </td>
+    </tr>
+    </table>    
+    
+</form>
