@@ -1,4 +1,3 @@
-https://www.researchnmarkets.com/
 <!DOCTYPE html>
 <html>
 
