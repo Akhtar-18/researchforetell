@@ -1,0 +1,16 @@
+[24-Feb-2021 15:57:20 UTC] PHP Warning:  Unterminated comment starting line 106 in /home/pjat9b0h9yvn/public_html/application/config/config.php on line 106
+[24-Feb-2021 15:57:20 UTC] PHP Notice:  Undefined index: log_path in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 127
+[24-Feb-2021 15:57:20 UTC] PHP Notice:  Undefined index: log_path in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 127
+[24-Feb-2021 15:57:20 UTC] PHP Warning:  mkdir(): Invalid path in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 131
+[24-Feb-2021 15:57:20 UTC] PHP Notice:  Undefined index: log_threshold in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 138
+[24-Feb-2021 15:57:20 UTC] PHP Notice:  Undefined index: log_threshold in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 142
+[24-Feb-2021 15:57:21 UTC] PHP Warning:  Unterminated comment starting line 188 in /home/pjat9b0h9yvn/public_html/application/config/config.php on line 188
+[24-Feb-2021 15:57:21 UTC] PHP Notice:  Undefined index: log_path in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 127
+[24-Feb-2021 15:57:21 UTC] PHP Notice:  Undefined index: log_path in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 127
+[24-Feb-2021 15:57:21 UTC] PHP Warning:  mkdir(): Invalid path in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 131
+[24-Feb-2021 15:57:21 UTC] PHP Notice:  Undefined index: log_threshold in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 138
+[24-Feb-2021 15:57:21 UTC] PHP Notice:  Undefined index: log_threshold in /home/pjat9b0h9yvn/public_html/system/core/Log.php on line 142
+[25-Feb-2021 19:27:48 UTC] PHP Warning:  Unterminated comment starting line 354 in /home/pjat9b0h9yvn/public_html/application/config/config.php on line 354
+[01-Mar-2021 10:50:34 UTC] PHP Warning:  Unterminated comment starting line 942 in /home/pjat9b0h9yvn/public_html/application/controllers/Homepage.php on line 942
+[18-Mar-2021 07:37:28 UTC] PHP Warning:  Unterminated comment starting line 205 in /home/pjat9b0h9yvn/public_html/application/controllers/Excel.php on line 205
+[18-Mar-2021 12:03:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pjat9b0h9yvn/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
