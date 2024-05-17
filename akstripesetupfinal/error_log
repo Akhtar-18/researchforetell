@@ -1,4 +1,0 @@
-[22-Aug-2019 23:49:55 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/easyeofs/public_html/Unani-Admin-CI/application/models/admin/Login_model.php on line 8
-[06-Mar-2021 21:44:02 UTC] PHP Fatal error:  Cannot redeclare Home::fetch_product() in /home/jusmarktech1/public_html/neelam/application/controllers/Home.php on line 2972
-[19-Apr-2021 07:24:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/pjat9b0h9yvn/public_html/akstripesetupfinal/application/application/third_party/stripe-php/init.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pjat9b0h9yvn/public_html/akstripesetupfinal/application/libraries/Stripe_lib.php on line 14
-[20-Apr-2021 06:37:58 UTC] PHP Warning:  Unterminated comment starting line 80 in /home/pjat9b0h9yvn/public_html/akstripesetupfinal/application/controllers/Products.php on line 80
